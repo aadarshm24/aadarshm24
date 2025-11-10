@@ -30,18 +30,15 @@ I love building intelligent and visually appealing applications that merge **mac
 ## ⚙️ Languages & Tools  
 
 <p align="center">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java" width="100">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180">
+  <img src="https://github.com/aadarshm24/aadarshm24/blob/main/assets/python.png" alt="python" width="120">
+  <img src="https://github.com/aadarshm24/aadarshm24/blob/main/assets/c%2B%2B.png" alt="C++" width="100">
+  <img src="https://github.com/aadarshm24/aadarshm24/blob/main/assets/ai.png" alt="AI" width="90">
+  <img src="https://github.com/aadarshm24/aadarshm24/blob/main/assets/github.png" alt="Github" width="100">
   </br>
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="gcp" width="270">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="vscode" width="240">
+  <img src="https://github.com/aadarshm24/aadarshm24/blob/main/assets/google%20cloud.png" alt="gcp" width="270">
+  <img src="https://github.com/aadarshm24/aadarshm24/blob/main/assets/vs%20code.png" alt="vscode" width="240">
   </br>
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150">
+  <img src="https://github.com/aadarshm24/aadarshm24/blob/main/assets/mac.gif" alt="Mac" width="100">
 </p>
 
 ---
