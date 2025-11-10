@@ -49,7 +49,7 @@ I love building intelligent and visually appealing applications that merge **mac
 ## 📫 Contact Me  
 
 <p>
-<img height="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+<img height="320" width="450" align="right" alt="GIF" src="https://github.com/aadarshm24/aadarshm24/blob/main/assets/kira.gif">
 
 If you’d like to collaborate, discuss tech, or even team up for hackathons or gaming sessions — feel free to reach out 😄  
 
