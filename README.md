@@ -11,7 +11,7 @@
 ### 🌟 Hey there! I'm **Aadarsh Mishra**, an 18-year-old **B.Tech AI/ML student** and a passionate **Web Developer & Problem Solver** from India.  
 I love building intelligent and visually appealing applications that merge **machine learning** with **modern web technologies**.
 
-<img height="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img height="400" width="500" alt="GIF" align="right" src="https://github.com/aadarshm24/aadarshm24/blob/main/assets/death%20note%20kira%20GIF.gif">
 
 ### 🔭 Currently Exploring:
 - 🧠 Machine Learning with **TensorFlow**
