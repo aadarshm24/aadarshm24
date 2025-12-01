@@ -65,11 +65,3 @@ If you’d like to collaborate, discuss tech, or even team up for hackathons or 
 </p>
 
 ---
-
-<p align="center">  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=aadarshm24&show_icons=true&theme=radical" alt="Aadarsh's GitHub Stats"/>
-  </a>
-</p>
-
----
